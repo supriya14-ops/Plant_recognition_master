@@ -1,0 +1,13 @@
+node_modules/
+venv_plant/
+training_plant_images/
+testing_dataset/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+dist/
+build/
+coverage/
+.expo/
+.vercel/

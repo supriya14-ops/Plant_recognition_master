@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: plant-recognition-backend
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    healthCheckPath: /

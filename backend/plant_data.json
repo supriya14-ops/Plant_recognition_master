@@ -1,0 +1,340 @@
+{
+    "Aloe_Vera": {
+        "scientific_name": "Aloe barbadensis miller",
+        "uses": [
+            "Fresh gel extracted from the leaf is applied directly to burns and sunburn to cool the skin and speed healing.",
+            "Aloe gel applied as a face mask helps treat acne, pimples, and skin irritation.",
+            "Aloe juice prepared from the inner leaf pulp improves digestion and relieves constipation.",
+            "Aloe gel mixed with turmeric or honey is used to treat minor wounds and skin infections.",
+            "Regular application of aloe gel moisturizes the skin and reduces wrinkles due to antioxidant properties."
+        ],
+        "diseases": [
+            "Sunburn",
+            "Dermatitis",
+            "Acne",
+            "Constipation",
+            "Psoriasis",
+            "Skin irritation",
+            "Minor wounds",
+            "Digestive disorders"
+        ]
+    },
+    "Amla": {
+        "scientific_name": "Phyllanthus emblica",
+        "uses": [
+            "Fresh amla fruit or juice is consumed daily to boost immunity because it is rich in Vitamin C.",
+            "Amla oil prepared by boiling dried amla in coconut oil is applied to the scalp to promote hair growth and prevent dandruff.",
+            "Amla powder mixed with warm water improves digestion and reduces acidity.",
+            "Amla juice consumed regularly improves eyesight and eye health.",
+            "Amla powder mixed with honey helps treat cough, cold, and respiratory infections."
+        ],
+        "diseases": [
+            "Scurvy",
+            "Common cold",
+            "Indigestion",
+            "Hair loss",
+            "Anemia",
+            "Hyperacidity",
+            "Respiratory infections",
+            "Weak immunity"
+        ]
+    },
+    "Amruta_Balli": {
+        "scientific_name": "Tinospora cordifolia",
+        "uses": [
+            "Stem decoction prepared by boiling fresh stems in water is consumed to boost immunity and fight infections.",
+            "Juice extracted from fresh stems is consumed daily to manage blood sugar levels in diabetic patients.",
+            "Amruta Balli powder mixed with honey helps reduce chronic fever and treats recurring fevers.",
+            "Leaf juice consumed regularly helps purify the blood and treat skin diseases.",
+            "Stem extract mixed with warm water helps improve digestion and treat gastric problems."
+        ],
+        "diseases": [
+            "Dengue fever",
+            "Diabetes",
+            "Chronic fever",
+            "Jaundice",
+            "Low immunity",
+            "Skin diseases",
+            "Urinary infections",
+            "Digestive disorders"
+        ]
+    },
+    "Arali": {
+        "scientific_name": "Nerium oleander",
+        "uses": [
+            "Leaf paste is applied externally to treat skin diseases and ringworm infections.",
+            "Root bark paste is applied externally to relieve joint pain and inflammation.",
+            "Oil prepared from flowers is used externally for treating lice and scalp conditions.",
+            "Leaf extract is used in traditional medicine as an external application for wounds and ulcers."
+        ],
+        "diseases": [
+            "Skin diseases",
+            "Ringworm",
+            "Joint pain",
+            "Scalp infections",
+            "External wounds",
+            "Ulcers"
+        ]
+    },
+    "Betel": {
+        "scientific_name": "Piper betle",
+        "uses": [
+            "Fresh betel leaf chewed after meals aids digestion and freshens breath.",
+            "Warm betel leaf applied to the chest helps relieve cough and respiratory congestion.",
+            "Betel leaf juice mixed with honey helps treat sore throat and bronchitis.",
+            "Crushed betel leaf paste applied to wounds acts as an antiseptic and promotes healing.",
+            "Betel leaf juice applied externally helps treat boils and skin inflammations."
+        ],
+        "diseases": [
+            "Cough",
+            "Bronchitis",
+            "Indigestion",
+            "Headaches",
+            "Sore throat",
+            "Wounds",
+            "Skin inflammations",
+            "Bad breath"
+        ]
+    },
+    "Curry": {
+        "scientific_name": "Murraya koenigii",
+        "uses": [
+            "Fresh curry leaves chewed on an empty stomach help manage diabetes by reducing blood sugar levels.",
+            "Curry leaf paste applied to the scalp promotes hair growth and prevents premature greying.",
+            "Curry leaves added to food improve digestion and reduce nausea.",
+            "Curry leaf juice mixed with lime juice helps with weight management.",
+            "Fresh curry leaves consumed daily help reduce cholesterol and protect the liver."
+        ],
+        "diseases": [
+            "Diabetes",
+            "Hair loss",
+            "Premature greying",
+            "Indigestion",
+            "Nausea",
+            "High cholesterol",
+            "Obesity",
+            "Liver disorders"
+        ]
+    },
+    "Mint": {
+        "scientific_name": "Mentha spicata",
+        "uses": [
+            "Fresh mint leaves brewed as tea help relieve indigestion and bloating.",
+            "Mint paste applied to the forehead and temples helps relieve headaches.",
+            "Mint juice mixed with lemon and honey helps treat nausea and morning sickness.",
+            "Fresh mint leaves added to drinks help cool the body and reduce heat stress.",
+            "Mint oil inhaled through steam helps clear nasal congestion and treat respiratory problems."
+        ],
+        "diseases": [
+            "Indigestion",
+            "Nausea",
+            "Headaches",
+            "Nasal congestion",
+            "Bloating",
+            "Morning sickness",
+            "Heat stress",
+            "Respiratory problems"
+        ]
+    },
+    "basale": {
+        "scientific_name": "Basella alba",
+        "uses": [
+            "Fresh basale leaves cooked as a vegetable provide iron and help treat anemia.",
+            "Leaf juice consumed regularly helps improve hemoglobin levels and fights iron deficiency.",
+            "Basale leaf paste applied to burns and scalds provides a cooling effect and speeds healing.",
+            "Cooked basale leaves help relieve constipation due to their high fiber and mucilage content.",
+            "Basale leaf juice applied to the scalp helps promote hair growth and reduce hair fall."
+        ],
+        "diseases": [
+            "Anemia",
+            "Iron deficiency",
+            "Constipation",
+            "Burns",
+            "Skin irritation",
+            "Hair loss",
+            "Insomnia",
+            "Digestive disorders"
+        ]
+    },
+    "Ashoka": {
+        "scientific_name": "Saraca asoca",
+        "uses": [
+            "Bark decoction prepared by boiling the bark is used to regulate menstrual cycles.",
+            "Ashoka bark powder mixed with warm milk helps reduce menstrual pain and heavy bleeding.",
+            "Flower extracts help purify blood and improve skin health.",
+            "Herbal tonic prepared from bark improves reproductive health."
+        ],
+        "diseases": [
+            "Menstrual cramps",
+            "Uterine disorders",
+            "Leucorrhea",
+            "Hormonal imbalance",
+            "Arthritis",
+            "Reproductive disorders"
+        ]
+    },
+    "Ashwagandha": {
+        "scientific_name": "Withania somnifera",
+        "uses": [
+            "Root powder mixed with warm milk helps reduce stress and anxiety.",
+            "Herbal tea prepared from the root improves sleep and treats insomnia.",
+            "Powder mixed with honey increases strength and stamina.",
+            "Capsules or powder improve brain function and memory.",
+            "Root extract boosts immunity and reduces fatigue."
+        ],
+        "diseases": [
+            "Insomnia",
+            "Anxiety",
+            "Chronic fatigue",
+            "Stress disorders",
+            "Low immunity",
+            "Weakness"
+        ]
+    },
+    "Bael": {
+        "scientific_name": "Aegle marmelos",
+        "uses": [
+            "Bael fruit pulp consumed as juice helps treat diarrhea and dysentery.",
+            "Bael leaf decoction improves digestion and gut health.",
+            "Bael fruit powder reduces stomach inflammation.",
+            "Bael juice supports heart health and reduces digestive problems."
+        ],
+        "diseases": [
+            "Diarrhea",
+            "Dysentery",
+            "Ulcers",
+            "Constipation",
+            "Digestive disorders",
+            "Stomach infections"
+        ]
+    },
+    "Cinnamon": {
+        "scientific_name": "Cinnamomum verum",
+        "uses": [
+            "Cinnamon powder added to food helps regulate blood sugar levels.",
+            "Cinnamon tea improves metabolism and supports weight management.",
+            "Powder mixed with honey helps fight bacterial infections.",
+            "Cinnamon tea improves heart health and reduces cholesterol."
+        ],
+        "diseases": [
+            "Diabetes",
+            "Heart disease",
+            "Inflammation",
+            "Digestive problems",
+            "High cholesterol"
+        ]
+    },
+    "Henna": {
+        "scientific_name": "Lawsonia inermis",
+        "uses": [
+            "Henna paste applied to hair acts as a natural hair dye.",
+            "Henna leaf paste applied to the scalp cools the body and relieves headaches.",
+            "Paste applied to skin helps treat fungal infections.",
+            "Henna paste helps treat dandruff and scalp irritation."
+        ],
+        "diseases": [
+            "Fungal infections",
+            "Headaches",
+            "Burns",
+            "Dandruff",
+            "Scalp irritation"
+        ]
+    },
+    "Lavender": {
+        "scientific_name": "Lavandula angustifolia",
+        "uses": [
+            "Lavender tea prepared from flowers promotes relaxation and better sleep.",
+            "Lavender oil used in aromatherapy helps reduce anxiety and stress.",
+            "Oil applied to skin helps treat irritation and eczema.",
+            "Lavender oil inhalation helps relieve headaches."
+        ],
+        "diseases": [
+            "Insomnia",
+            "Anxiety",
+            "Eczema",
+            "Headaches",
+            "Stress disorders"
+        ]
+    },
+    "Marigold": {
+        "scientific_name": "Calendula officinalis",
+        "uses": [
+            "Marigold flower paste applied to wounds helps speed healing.",
+            "Flower extracts help improve eye health.",
+            "Marigold tea helps reduce throat inflammation.",
+            "Flower paste helps treat skin rashes and irritation."
+        ],
+        "diseases": [
+            "Wounds",
+            "Conjunctivitis",
+            "Skin rashes",
+            "Inflammation",
+            "Minor burns"
+        ]
+    },
+    "Neem": {
+        "scientific_name": "Azadirachta indica",
+        "uses": [
+            "Neem leaf paste applied to skin treats acne and skin infections.",
+            "Neem oil applied to the scalp helps treat dandruff.",
+            "Neem leaf decoction helps purify the blood.",
+            "Neem leaves used in agriculture act as a natural pesticide."
+        ],
+        "diseases": [
+            "Acne",
+            "Dermatitis",
+            "Internal parasites",
+            "Malaria",
+            "Dandruff",
+            "Skin infections"
+        ]
+    },
+    "Peppermint": {
+        "scientific_name": "Mentha piperita",
+        "uses": [
+            "Peppermint tea helps relieve digestive discomfort and bloating.",
+            "Peppermint oil applied to temples helps relieve headaches.",
+            "Leaf infusion helps improve concentration and focus.",
+            "Peppermint tea helps reduce nausea and stomach pain."
+        ],
+        "diseases": [
+            "Nausea",
+            "IBS",
+            "Stomach ache",
+            "Headaches",
+            "Digestive disorders"
+        ]
+    },
+    "Tulsi": {
+        "scientific_name": "Ocimum sanctum",
+        "uses": [
+            "Tulsi tea prepared from leaves boosts immunity.",
+            "Leaf decoction helps treat cough, cold, and respiratory infections.",
+            "Fresh leaves chewed daily improve respiratory health.",
+            "Tulsi tea helps reduce stress and fever."
+        ],
+        "diseases": [
+            "Asthma",
+            "Bronchitis",
+            "Fever",
+            "Cold",
+            "Respiratory infections"
+        ]
+    },
+    "Turmeric": {
+        "scientific_name": "Curcuma longa",
+        "uses": [
+            "Turmeric paste applied to wounds helps speed healing.",
+            "Turmeric milk improves immunity and reduces inflammation.",
+            "Turmeric powder added to food improves digestion.",
+            "Turmeric paste applied to skin helps treat infections."
+        ],
+        "diseases": [
+            "Arthritis",
+            "Jaundice",
+            "Inflammation",
+            "Skin infections",
+            "Joint pain"
+        ]
+    }
+}
