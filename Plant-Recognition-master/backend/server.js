@@ -6,6 +6,7 @@ const path = require('path');
 const fs = require('fs');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const { fetch, Agent } = require('undici');
+require('dotenv').config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -18,7 +19,13 @@ const customFetch = (url, init) => {
     });
 };
 
-const genAI = new GoogleGenerativeAI('AIzaSyAzR2VfuERPyTGmR3HIBfYlG8k23eYvtrA');
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+if (!GEMINI_API_KEY) {
+    console.error('ERROR: GEMINI_API_KEY environment variable is not set. Please add it to your .env file.');
+    process.exit(1);
+}
+
+const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' }, { fetch: customFetch });
 
 // Load local plant knowledge base
