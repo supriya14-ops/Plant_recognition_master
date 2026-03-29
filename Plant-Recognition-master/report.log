@@ -1,0 +1,10 @@
+2026-03-05 00:24:04,461 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9}
+2026-03-05 00:26:17,758 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9}
+2026-03-05 00:28:24,165 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9}
+2026-03-05 00:28:43,579 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.24790865384615385, best pos: [0.97633574 0.41956316 0.24669518 ... 0.07997818 0.72769914 0.40537589]
+2026-03-12 16:44:43,121 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-12 16:46:33,065 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9}
+2026-03-12 16:46:55,148 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.2594711538461538, best pos: [0.8716148  0.32282614 0.69658555 ... 0.88792952 0.26853702 0.65386543]
+2026-03-12 17:15:10,551 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-12 17:27:08,734 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9}
+2026-03-12 17:38:15,022 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.15655904218533886, best pos: [0.22166547 0.26607474 0.3135612  ... 0.44914203 0.95596846 0.83498493]
