@@ -147,6 +147,10 @@ function getPrediction(imagePath) {
 // Initial start
 startPythonProcess();
 
+app.get('/', (req, res) => {
+    res.status(200).send('Plant Recognition Backend API is running!');
+});
+
 app.post('/predict', upload.single('image'), async (req, res) => {
     if (!req.file) {
         return res.status(400).json({ error: 'No image file uploaded' });
@@ -229,6 +233,6 @@ If the image is not a plant, set uses to descriptions of what the image shows, a
     }
 });
 
-app.listen(PORT, () => {
-    console.log(`Backend server running on http://localhost:${PORT}`);
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`Backend server running on port ${PORT} (bound to 0.0.0.0)`);
 });
